@@ -31,6 +31,9 @@ Before taking this course, having basic knowledge of C# programming language and
 
 The course followed a well-structured approach, with each section focusing on specific aspects of Blazor WebAssembly and Web API development. Throughout the course, hands-on projects and practical exercises reinforced my learning. The step-by-step guidance in each section enabled me to grasp the concepts thoroughly and apply them in real-world scenarios.
 
+## Blog posts of my journey
+https://karabomatabane.blogspot.com/2023/07/understanding-basics-of-aspnet-core-and.html
+
 ## Conclusion
 
 Completing the "Learn Blazor WebAssembly and Web API on .NET 6" course was an enriching experience. I now feel confident in my ability to leverage Blazor WebAssembly to build modern, interactive web applications. The skills I gained, especially in integrating a payment gateway, have broadened my horizons as a web developer.
