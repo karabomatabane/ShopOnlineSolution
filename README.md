@@ -1,10 +1,13 @@
 # Learning Blazor WebAssembly - Course Review
 
-![Course Logo](course-logo.png) *(If available, include a logo/image representing the course)*
 
 ## Course: Learn Blazor WebAssembly and Web API on .NET 6 - Shopping Cart Application
 
 I recently completed the "Learn Blazor WebAssembly and Web API on .NET 6" course, and I'm excited to share my learning experience with you. Throughout this course, I gained a comprehensive understanding of Blazor WebAssembly and learned how to build a fully functional shopping cart application from scratch using C# and the latest .NET 6 technologies.
+
+## Course Link
+
+https://youtu.be/sHuuo9L3e5c
 
 ## What I Learned
 
@@ -35,5 +38,3 @@ Completing the "Learn Blazor WebAssembly and Web API on .NET 6" course was an en
 I highly recommend this course to anyone interested in learning Blazor WebAssembly and delving into the world of modern web development with .NET 6. Let's embrace the power of Blazor and create amazing web applications together!
 
 ---
-
-*Note: Customize the review based on your actual learning experience, highlighting the most significant takeaways and personal reflections from the course.*
